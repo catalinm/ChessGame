@@ -1,0 +1,22 @@
+Cheap atempt at a Chess Engine 
+Made by POT team: Petre Gabriel, Becheru Ovidiu-Cristian, Tinis Daniel
+
+	Am dorit sa avem o implementare simpla, folosind pentru tabla de joc, miscari, etc
+un array. Desi din punct de vedere al vitezei exista optiuni mult mai bune, aka
+bitmap(dar daca ar fi fost sa alegem cod cat mai eficient am fi folosit in primul rand
+C, nu Java pentru a dezvolta acest engine).
+	Probabil nu va fi in cea mai buna forma pentru etapa 1
+	Etapa 1: -Seful echipei nu era de gasit si pentru a ma asigura ca e trimisa tema. Am urcat eu pe site codul sursa.
+	-Done so far:
+		-Realizat o tabla de soc simplista din array-uri.
+		-Interfatarea cu winboard prin diverse comenzi
+		Comenzi ce ar trebui sa mearga pe moment: new, quit, xboard, force, resign.
+		
+	-De implementat:
+		-Cel putin regulile de miscare pentru o piesa. -done, pion miscari, fara captura.
+		-Comenzi ce mai trebuie implementate/completate: go, move; 
+		
+	Etapa 2:...
+	Etapa 3:...
+	Etapa 4:...
+	Etapa 5://Yea right...
